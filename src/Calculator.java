@@ -8,7 +8,7 @@ public class Calculator {
 	public static void main(String[] args){
 
 		Scanner inputKey = new Scanner(System.in);
-		System.out.println("What is the First Integer");
+		System.out.println("What is the First Integer"); 
 		int firstNum = inputKey.nextInt();
 		System.out.println("What is the Second Integer");
 		int secondNum = inputKey.nextInt();
